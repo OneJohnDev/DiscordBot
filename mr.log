@@ -1,0 +1,695 @@
+2021-11-20 01:41:17,356 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2021-11-20 01:41:17,357 - INFO - logging in using static token
+2021-11-20 01:41:17,919 - INFO - Shard ID None has sent the IDENTIFY payload.
+2021-11-20 01:41:18,073 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-main-6mgz",{"micros":53419,"calls":["discord-sessions-green-prd-2-140",{"micros":52555,"calls":["start_session",{"micros":47584,"calls":["api-prd-main-g16z",{"micros":43924,"calls":["get_user",{"micros":7512},"add_authorized_ip",{"micros":4978},"get_guilds",{"micros":2814},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":2094,"calls":[]}]}]}] (Session ID: 830596a49b8e0bf9de578d444b2a6a42).
+2021-11-25 02:05:20,210 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2021-11-25 02:05:20,211 - INFO - logging in using static token
+2021-11-25 02:05:20,211 - INFO - Cleaning up tasks.
+2021-11-25 02:05:20,211 - INFO - Closing the event loop.
+2021-11-25 02:06:00,588 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2021-11-25 02:06:00,589 - INFO - logging in using static token
+2021-11-25 02:06:01,130 - INFO - Shard ID None has sent the IDENTIFY payload.
+2021-11-25 02:06:01,314 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-main-jbps",{"micros":86757,"calls":["discord-sessions-blue-prd-2-68",{"micros":85978,"calls":["start_session",{"micros":78874,"calls":["api-prd-main-79s6",{"micros":72316,"calls":["get_user",{"micros":15681},"add_authorized_ip",{"micros":6704},"get_guilds",{"micros":10716},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":6512,"calls":[]}]}]}] (Session ID: 5d4d3c152a61f76eefea6d9671cd7b4e).
+2021-11-25 02:06:36,629 - INFO - Yondaime#6523 : ALSREVNESEDSEGAUNLIYASRUOJUOTNULEIC dans room-06
+2021-11-25 02:06:44,081 - INFO - Wowo#2991 : fefez dans room-06
+2021-11-25 02:08:25,728 - INFO - Yondaime#6523 : ALSREVNESEDSEGAUNLIYASRUOJUOTNULEIC dans room-06
+2021-11-25 02:10:33,920 - INFO - Wowo#2991 : alenversdesnuagesilyatoujoursunciel dans room-06
+2021-11-25 02:11:41,981 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2021-11-25 02:11:41,981 - INFO - logging in using static token
+2021-11-25 02:11:41,981 - INFO - Cleaning up tasks.
+2021-11-25 02:11:41,981 - INFO - Closing the event loop.
+2021-11-25 02:11:55,951 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2021-11-25 02:11:55,951 - INFO - logging in using static token
+2021-11-25 02:11:56,468 - INFO - Shard ID None has sent the IDENTIFY payload.
+2021-11-25 02:11:56,651 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-main-pdr7",{"micros":85462,"calls":["discord-sessions-blue-prd-2-19",{"micros":84362,"calls":["start_session",{"micros":60786,"calls":["api-prd-main-mrz5",{"micros":57802,"calls":["get_user",{"micros":6573},"add_authorized_ip",{"micros":4675},"get_guilds",{"micros":22842},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":0,"calls":[]}]}]}] (Session ID: 3991bc1ade2b45cd2680323adf21ed56).
+2021-11-25 02:12:11,079 - INFO - Wowo#2991 : alenversdesnuagesilyatoujoursunciel dans room-06
+2021-11-25 02:20:17,029 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2021-11-25 02:20:17,030 - INFO - logging in using static token
+2021-11-25 02:20:17,030 - INFO - Cleaning up tasks.
+2021-11-25 02:20:17,030 - INFO - Closing the event loop.
+2021-11-25 02:20:25,242 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2021-11-25 02:20:25,242 - INFO - logging in using static token
+2021-11-25 02:20:25,755 - INFO - Shard ID None has sent the IDENTIFY payload.
+2021-11-25 02:20:25,922 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-main-b899",{"micros":59319,"calls":["discord-sessions-blue-prd-2-48",{"micros":57793,"calls":["start_session",{"micros":39054,"calls":["api-prd-main-l79t",{"micros":35308,"calls":["get_user",{"micros":6304},"add_authorized_ip",{"micros":1505},"get_guilds",{"micros":4806},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":7241,"calls":[]}]}]}] (Session ID: 932ac094e3d03cee5565dca0bf3fd277).
+2021-11-25 02:21:19,913 - INFO - Yondaime#6523 : Sachant que 44 = 4x11 
+JTSNR STAIO EAPC NDEM HIDAO COT NEM GDUVEE EN SPERA ET dans room-08
+2021-11-25 02:22:21,662 - INFO - Yondaime#6523 : Sachant que 44 = 4x11 
+JTSNR STAIO EAPC NDEM HIDAO COT NEM GDUVEE EN SPERA ET dans room-07
+2021-11-25 02:29:45,306 - INFO - Wowo#2991 : jtsnrstaioeapcndemhidaocotnemgduveeensperaetjtsnrstaioeapcndemhidaocotnemgduveeensperaetjtsnrstaioeapcndemhidaocotnemgduveeensperaetjtsnrstaioeapcndemhidaocotnemgduveeensperaet dans room-07
+2021-11-25 03:05:08,314 - INFO - Got a request to RESUME the websocket.
+2021-11-25 03:05:08,932 - INFO - Shard ID None has sent the RESUME payload.
+2021-11-25 03:05:09,039 - INFO - Shard ID None has successfully RESUMED session 932ac094e3d03cee5565dca0bf3fd277 under trace ["gateway-prd-main-gr7l",{"micros":10131,"calls":["discord-sessions-blue-prd-2-48",{"micros":16}]}].
+2021-11-25 04:58:56,716 - INFO - Websocket closed with 1006, attempting a reconnect.
+2021-11-25 04:58:56,717 - INFO - Got a request to RESUME the websocket.
+2021-11-25 04:58:56,988 - INFO - Shard ID None has sent the RESUME payload.
+2021-11-25 04:58:57,087 - INFO - Shard ID None has successfully RESUMED session 932ac094e3d03cee5565dca0bf3fd277 under trace ["gateway-prd-main-js98",{"micros":1859,"calls":["discord-sessions-blue-prd-2-48",{"micros":34}]}].
+2021-11-25 08:13:05,783 - INFO - Got a request to RESUME the websocket.
+2021-11-25 08:13:06,010 - INFO - Shard ID None has sent the RESUME payload.
+2021-11-25 08:13:06,107 - INFO - Shard ID None has successfully RESUMED session 932ac094e3d03cee5565dca0bf3fd277 under trace ["gateway-prd-main-nkgj",{"micros":579,"calls":["discord-sessions-blue-prd-2-48",{"micros":14}]}].
+2021-11-25 10:46:12,007 - INFO - Got a request to RESUME the websocket.
+2021-11-25 10:46:12,267 - INFO - Shard ID None has sent the RESUME payload.
+2021-11-25 10:46:12,376 - INFO - Shard ID None has successfully RESUMED session 932ac094e3d03cee5565dca0bf3fd277 under trace ["gateway-prd-main-5sn4",{"micros":534,"calls":["discord-sessions-blue-prd-2-48",{"micros":16}]}].
+2021-11-25 11:37:53,350 - INFO - Got a request to RESUME the websocket.
+2021-11-25 11:37:53,859 - INFO - Shard ID None has sent the RESUME payload.
+2021-11-25 11:37:53,964 - INFO - Shard ID None has successfully RESUMED session 932ac094e3d03cee5565dca0bf3fd277 under trace ["gateway-prd-main-b4ws",{"micros":485,"calls":["discord-sessions-blue-prd-2-48",{"micros":19}]}].
+2021-11-25 12:46:35,341 - INFO - Got a request to RESUME the websocket.
+2021-11-25 12:46:35,573 - INFO - Shard ID None has sent the RESUME payload.
+2021-11-25 12:46:35,677 - INFO - Shard ID None has successfully RESUMED session 932ac094e3d03cee5565dca0bf3fd277 under trace ["gateway-prd-main-fwrc",{"micros":429,"calls":["discord-sessions-blue-prd-2-48",{"micros":17}]}].
+2021-11-25 13:24:00,175 - INFO - kikiair#8368 : kikiair#8368 dans room-00
+2021-11-25 13:24:12,597 - INFO - kikiair#8368 : 1 dans room-01
+2021-11-25 13:24:48,743 - INFO - Aiiphera#5377 : compete dans room-03
+2021-11-25 13:24:50,353 - INFO - Aiiphera#5377 : tournois dans room-03
+2021-11-25 13:24:53,978 - INFO - Aiiphera#5377 : sport dans room-03
+2021-11-25 13:25:10,693 - INFO - Aiiphera#5377 : athene dans room-03
+2021-11-25 13:25:45,690 - INFO - Aiiphera#5377 : garros dans room-03
+2021-11-25 13:27:13,977 - INFO - Aiiphera#5377 : Hidayat dans room-03
+2021-11-25 13:27:37,690 - INFO - Aiiphera#5377 : taufik dans room-03
+2021-11-25 13:27:47,606 - INFO - Aiiphera#5377 : chine dans room-03
+2021-11-25 13:28:03,989 - INFO - Aiiphera#5377 : Gaoling dans room-03
+2021-11-25 13:28:23,465 - INFO - Aiiphera#5377 : taufikhidayat dans room-03
+2021-11-25 13:28:55,936 - INFO - Aiiphera#5377 : zhangning dans room-03
+2021-11-25 13:29:08,132 - INFO - Aiiphera#5377 : artiste dans room-04
+2021-11-25 13:29:09,945 - INFO - Aiiphera#5377 : peintre dans room-04
+2021-11-25 13:29:12,502 - INFO - Aiiphera#5377 : peinture dans room-04
+2021-11-25 13:30:37,969 - INFO - kikiair#8368 : bravo dans room-02
+2021-11-25 13:31:01,627 - INFO - kikiair#8368 : zhangnig dans room-03
+2021-11-25 13:31:13,278 - INFO - kikiair#8368 : zangzing dans room-03
+2021-11-25 13:32:34,074 - INFO - kikiair#8368 : ZhangNing dans room-03
+2021-11-25 13:32:38,049 - INFO - kikiair#8368 : Zhang Ning dans room-03
+2021-11-25 13:32:41,032 - INFO - kikiair#8368 : Zhang Ning dans room-03
+2021-11-25 13:32:41,630 - INFO - kikiair#8368 : Zhang Ning dans room-03
+2021-11-25 13:32:42,341 - INFO - kikiair#8368 : Zhang Ning dans room-03
+2021-11-25 13:32:43,006 - INFO - kikiair#8368 : Zhang Ning dans room-03
+2021-11-25 13:32:43,972 - INFO - kikiair#8368 : Zhang Ning dans room-03
+2021-11-25 13:32:44,394 - INFO - kikiair#8368 : Zhang Ning dans room-03
+2021-11-25 13:32:45,245 - INFO - kikiair#8368 : Zhang Ning dans room-03
+2021-11-25 13:32:46,041 - INFO - kikiair#8368 : Zhang Ning dans room-03
+2021-11-25 13:32:46,856 - INFO - kikiair#8368 : Zhang Ning dans room-03
+2021-11-25 13:32:49,049 - INFO - kikiair#8368 : Zhang Ning dans room-03
+2021-11-25 13:32:49,844 - INFO - kikiair#8368 : Zhang Ning dans room-03
+2021-11-25 13:32:54,024 - INFO - kikiair#8368 : Zhangning dans room-03
+2021-11-25 13:32:58,718 - INFO - kikiair#8368 : Zhang ning dans room-03
+2021-11-25 13:33:03,961 - INFO - kikiair#8368 : zhang ning dans room-03
+2021-11-25 13:33:10,204 - INFO - kikiair#8368 : zhangning dans room-03
+2021-11-25 13:37:16,523 - INFO - Aiiphera#5377 : fredericchopin dans room-04
+2021-11-25 13:37:19,249 - INFO - kikiair#8368 : frédéric chopin dans room-04
+2021-11-25 13:37:24,346 - INFO - kikiair#8368 : Frédéric Chopin dans room-04
+2021-11-25 13:37:31,313 - INFO - kikiair#8368 : Frederic Chopin dans room-04
+2021-11-25 13:37:43,216 - INFO - kikiair#8368 : fredericchopin dans room-04
+2021-11-25 13:37:49,290 - INFO - Aiiphera#5377 : zone51 dans room-05
+2021-11-25 13:38:05,112 - INFO - kikiair#8368 : zone51 dans room-05
+2021-11-25 14:37:32,065 - INFO - Aiiphera#5377 : aeeeeauiyauououei dans room-06
+2021-11-25 14:37:52,247 - INFO - Aiiphera#5377 : alorsonestnul dans room-06
+2021-11-25 14:37:59,952 - INFO - Aiiphera#5377 : bite dans room-06
+2021-11-25 14:39:24,255 - INFO - kikiair#8368 : cieluntoujoursayilnuagesdesenversla dans room-06
+2021-11-25 14:39:53,876 - INFO - kikiair#8368 : alenversdesnuagesilyatoujoursunciel dans room-06
+2021-11-25 14:43:07,722 - INFO - Aiiphera#5377 : ALSREVNESEDSEGAUNLIYASRUOJUOTNULEIC dans room-06
+2021-11-25 14:43:39,132 - INFO - Aiiphera#5377 : alsrevnesedsegaunliyasruojuotnuleic dans room-06
+2021-11-25 14:52:10,697 - INFO - kikiair#8368 : 10 dans room-07
+2021-11-25 15:34:40,544 - INFO - kikiair#8368 : D dans room-07
+2021-11-25 15:34:55,040 - INFO - kikiair#8368 : <@!107971717124616192>je peux inviter un ami ? dans aide-room
+2021-11-25 15:35:46,262 - INFO - Yondaime#6523 : OUI dans aide-room
+2021-11-25 15:39:37,318 - INFO - Kahralan#9034 :  dans general
+2021-11-25 15:39:37,765 - INFO - GameMasterApp#5907 : Bienvenue sur le serveur Kahralan ! dans general
+2021-11-25 15:39:44,229 - INFO - Kahralan#9034 : Bonjour dans aide-room
+2021-11-25 15:39:47,645 - INFO - kikiair#8368 : yo dans aide-room
+2021-11-25 15:39:57,500 - INFO - Kahralan#9034 : Kahralan#9034 dans room-00
+2021-11-25 15:40:17,909 - INFO - Kahralan#9034 : kahralan#9034 dans room-00
+2021-11-25 15:40:33,588 - INFO - Kahralan#9034 : 45 dans room-01
+2021-11-25 15:42:12,865 - INFO - Kahralan#9034 : 1 dans room-01
+2021-11-25 15:43:08,333 - INFO - Kahralan#9034 : bravo dans room-02
+2021-11-25 15:45:34,103 - INFO - Kahralan#9034 : Taufik Hidayat dans room-03
+2021-11-25 15:46:17,899 - INFO - Kahralan#9034 : zhangning dans room-03
+2021-11-25 15:46:38,114 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2021-11-25 15:46:38,114 - INFO - logging in using static token
+2021-11-25 15:46:38,114 - INFO - Cleaning up tasks.
+2021-11-25 15:46:38,114 - INFO - Closing the event loop.
+2021-11-25 15:46:51,369 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2021-11-25 15:46:51,370 - INFO - logging in using static token
+2021-11-25 15:46:51,949 - INFO - Shard ID None has sent the IDENTIFY payload.
+2021-11-25 15:46:52,159 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-main-3j12",{"micros":107406,"calls":["discord-sessions-blue-prd-2-5",{"micros":106658,"calls":["start_session",{"micros":39526,"calls":["api-prd-main-3b5c",{"micros":35794,"calls":["get_user",{"micros":4314},"add_authorized_ip",{"micros":1194},"get_guilds",{"micros":7777},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":52768,"calls":[]}]}]}] (Session ID: cf1e92d960d823fa8be39d9de4add2e2).
+2021-11-25 15:47:16,714 - INFO - Kahralan#9034 : fredericchopin dans room-04
+2021-11-25 15:47:23,745 - INFO - Kahralan#9034 : chopin dans room-04
+2021-11-25 15:49:03,983 - INFO - Yondaime#6523 : yop dans aide-room
+2021-11-25 15:59:02,833 - INFO - kikiair#8368 : t dans room-07
+2021-11-25 16:00:19,443 - INFO - kikiair#8368 : eavt dans room-07
+2021-11-25 16:02:15,272 - INFO - totokogure#0483 :  dans general
+2021-11-25 16:02:15,406 - INFO - GameMasterApp#5907 : Bienvenue sur le serveur totokogure ! dans general
+2021-11-25 16:02:59,431 - INFO - totokogure#0483 : totokogure#0483 dans room-00
+2021-11-25 16:03:03,666 - INFO - totokogure#0483 : 1 dans room-01
+2021-11-25 16:03:08,975 - INFO - totokogure#0483 : BRAVO dans room-02
+2021-11-25 16:03:43,609 - INFO - totokogure#0483 : Ning Zhang dans room-03
+2021-11-25 16:04:16,367 - INFO - totokogure#0483 : chopin dans room-04
+2021-11-25 16:04:26,220 - INFO - totokogure#0483 : chopin frédéric dans room-04
+2021-11-25 16:04:53,085 - INFO - totokogure#0483 : Area51 dans room-05
+2021-11-25 16:07:22,335 - INFO - Aiiphera#5377 : Ciel un toujours il y a nuages en vers la dans room-06
+2021-11-25 16:07:45,464 - INFO - Aiiphera#5377 : Alenversdesnuagesilyatoujoursunciel dans room-06
+2021-11-25 16:07:59,799 - INFO - Aiiphera#5377 : alenversdesnuagesilyatoujoursunciel dans room-06
+2021-11-25 16:08:53,339 - INFO - Aiiphera#5377 : al'enversdesnuagesilyatoujoursunciel dans room-06
+2021-11-25 16:11:14,112 - INFO - totokogure#0483 : A L'ENVERS DES NUAGES IL Y A TOUJOURS UN CIEL dans room-06
+2021-11-25 16:11:46,466 - INFO - Aiiphera#5377 : àl'enversdesnuagesilyatoujoursunciel dans room-06
+2021-11-25 16:12:53,420 - INFO - Aiiphera#5377 : al'enversdesnuages,ilyatoujoursunciel dans room-06
+2021-11-25 16:13:42,930 - INFO - Aiiphera#5377 : a l'envers des nuages, il y a toujours un ciel dans room-06
+2021-11-25 16:13:53,683 - INFO - Aiiphera#5377 : A l'envers des nuages, il y a toujours un ciel. dans room-06
+2021-11-25 16:14:05,931 - INFO - Aiiphera#5377 : A l'envers des nuages, il y a toujours un ciel dans room-06
+2021-11-25 16:14:22,879 - INFO - Aiiphera#5377 : a l'envers des nuages il y a toujours un ciel dans room-06
+2021-11-25 16:15:32,107 - INFO - kikiair#8368 : D dans room-07
+2021-11-25 16:15:55,124 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2021-11-25 16:15:55,124 - INFO - logging in using static token
+2021-11-25 16:15:55,125 - INFO - Cleaning up tasks.
+2021-11-25 16:15:55,125 - INFO - Closing the event loop.
+2021-11-25 16:15:59,895 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2021-11-25 16:15:59,895 - INFO - logging in using static token
+2021-11-25 16:16:00,420 - INFO - Shard ID None has sent the IDENTIFY payload.
+2021-11-25 16:16:00,574 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-main-ls7q",{"micros":55240,"calls":["discord-sessions-blue-prd-2-16",{"micros":49300,"calls":["start_session",{"micros":32454,"calls":["api-prd-main-1s0z",{"micros":29077,"calls":["get_user",{"micros":4610},"add_authorized_ip",{"micros":1278},"get_guilds",{"micros":4307},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":13670,"calls":[]}]}]}] (Session ID: 554160a433232be0d543e84ccda098f7).
+2021-11-25 16:18:09,521 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2021-11-25 16:18:09,521 - INFO - logging in using static token
+2021-11-25 16:18:09,521 - INFO - Cleaning up tasks.
+2021-11-25 16:18:09,521 - INFO - Closing the event loop.
+2021-11-25 16:18:14,284 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2021-11-25 16:18:14,284 - INFO - logging in using static token
+2021-11-25 16:18:14,806 - INFO - Shard ID None has sent the IDENTIFY payload.
+2021-11-25 16:18:14,961 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-main-gfll",{"micros":45178,"calls":["discord-sessions-blue-prd-2-3",{"micros":44461,"calls":["start_session",{"micros":30599,"calls":["api-prd-main-48n4",{"micros":27483,"calls":["get_user",{"micros":3861},"add_authorized_ip",{"micros":1622},"get_guilds",{"micros":3297},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":6130,"calls":[]}]}]}] (Session ID: d5be5f31a0ac26379f8bc83776b509b0).
+2021-11-25 16:19:28,286 - INFO - jemenfou#4186 :  dans general
+2021-11-25 16:19:28,642 - INFO - GameMasterApp#5907 : Bienvenue sur le serveur jemenfou ! dans general
+2021-11-25 16:19:37,783 - INFO - jemenfou#4186 : jemenfou#4186 dans room-00
+2021-11-25 16:19:43,556 - INFO - jemenfou#4186 : 1 dans room-01
+2021-11-25 16:19:48,151 - INFO - jemenfou#4186 : bravo dans room-02
+2021-11-25 16:19:54,112 - INFO - jemenfou#4186 : zhang ning dans room-03
+2021-11-25 16:19:59,896 - INFO - jemenfou#4186 : frédéric chopin dans room-04
+2021-11-25 16:20:07,528 - INFO - jemenfou#4186 : area51 dans room-05
+2021-11-25 16:20:18,164 - INFO - jemenfou#4186 : a l'envers des nuages il y a le ciel dans room-06
+2021-11-25 16:20:32,050 - INFO - kikiair#8368 : Tntaanatnnat dans room-07
+2021-11-25 16:20:59,694 - INFO - Aiiphera#5377 : Tan tan tan dans room-07
+2021-11-25 16:21:12,123 - INFO - jemenfou#4186 : a l'envers des nuages il y a toujours le ciel dans room-06
+2021-11-25 16:21:26,741 - INFO - jemenfou#4186 : a l'envers des nuages il y a toujours un ciel dans room-06
+2021-11-25 16:21:28,079 - INFO - Aiiphera#5377 : 44 dans room-07
+2021-11-25 16:21:46,669 - INFO - jemenfou#4186 : j'ai découvert ton mot de passe changes en rapidement dans room-07
+2021-11-25 16:22:38,071 - INFO - jemenfou#4186 : J'ai découvert ton mot de passe changes en rapidement dans room-07
+2021-11-25 16:23:08,149 - INFO - jemenfou#4186 : J'ai découvert ton mot de passe changes en rapidement dans room-07
+2021-11-25 16:23:57,780 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2021-11-25 16:23:57,780 - INFO - logging in using static token
+2021-11-25 16:23:57,781 - INFO - Cleaning up tasks.
+2021-11-25 16:23:57,781 - INFO - Closing the event loop.
+2021-11-25 16:24:05,193 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2021-11-25 16:24:05,194 - INFO - logging in using static token
+2021-11-25 16:24:05,777 - INFO - Shard ID None has sent the IDENTIFY payload.
+2021-11-25 16:24:06,066 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-main-5fkx",{"micros":190386,"calls":["discord-sessions-blue-prd-2-26",{"micros":188195,"calls":["start_session",{"micros":29263,"calls":["api-prd-main-bmcs",{"micros":26142,"calls":["get_user",{"micros":2968},"add_authorized_ip",{"micros":1433},"get_guilds",{"micros":3422},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":0,"calls":[]}]}]}] (Session ID: 17627b8749103663a9b86383202f66b0).
+2021-11-25 16:24:24,873 - INFO - jemenfou#4186 : J'ai découvert ton mot de passe changes en rapidement dans room-07
+2021-11-25 16:25:13,958 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2021-11-25 16:25:13,958 - INFO - logging in using static token
+2021-11-25 16:25:13,958 - INFO - Cleaning up tasks.
+2021-11-25 16:25:13,958 - INFO - Closing the event loop.
+2021-11-25 16:25:24,389 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2021-11-25 16:25:24,389 - INFO - logging in using static token
+2021-11-25 16:25:24,873 - INFO - Shard ID None has sent the IDENTIFY payload.
+2021-11-25 16:25:25,091 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-main-pdr7",{"micros":118250,"calls":["discord-sessions-blue-prd-2-127",{"micros":117545,"calls":["start_session",{"micros":70751,"calls":["api-prd-main-gv3w",{"micros":62780,"calls":["get_user",{"micros":5319},"add_authorized_ip",{"micros":4889},"get_guilds",{"micros":4992},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":27588,"calls":[]}]}]}] (Session ID: 6aeae97ce719b44bcf6ecedb21d54138).
+2021-11-25 16:25:40,318 - INFO - kikiair#8368 : Le mot de passe de qui dans room-07
+2021-11-25 16:25:43,265 - INFO - Yondaime#6523 : j'ai découvert ton mot de passe changes en rapidement dans room-07
+2021-11-25 16:26:03,698 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2021-11-25 16:26:03,698 - INFO - logging in using static token
+2021-11-25 16:26:03,698 - INFO - Cleaning up tasks.
+2021-11-25 16:26:03,698 - INFO - Closing the event loop.
+2021-11-25 16:26:09,292 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2021-11-25 16:26:09,292 - INFO - logging in using static token
+2021-11-25 16:26:09,773 - INFO - Shard ID None has sent the IDENTIFY payload.
+2021-11-25 16:26:09,941 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-main-dbgz",{"micros":69761,"calls":["discord-sessions-blue-prd-2-29",{"micros":66057,"calls":["start_session",{"micros":32191,"calls":["api-prd-main-0fm6",{"micros":28659,"calls":["get_user",{"micros":3718},"add_authorized_ip",{"micros":1635},"get_guilds",{"micros":4862},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":24193,"calls":[]}]}]}] (Session ID: 7e3dfb37a54e80755fb3f21a23c0f8ca).
+2021-11-25 16:26:27,440 - INFO - jemenfou#4186 : j'ai découvert ton mot de passe changes en rapidement dans room-07
+2021-11-25 16:26:36,451 - INFO - Yondaime#6523 : sdf dans room-07
+2021-11-25 16:26:46,126 - INFO - kikiair#8368 : Hein dans room-07
+2021-11-25 16:26:46,219 - INFO - Yondaime#6523 : 2221321321 dans room-07
+2021-11-25 16:26:47,128 - INFO - Yondaime#6523 : 145s4df5 dans room-07
+2021-11-25 16:27:41,606 - INFO - Aiiphera#5377 : J'ai découvert ton mot de passe, change rapidement dans room-07
+2021-11-25 16:27:55,819 - INFO - Aiiphera#5377 : J'ai découvert ton mot de passe, change en rapidement dans room-07
+2021-11-25 16:31:30,322 - INFO - Aiiphera#5377 : J'ai découvert ton mot de passe, changes en rapidement dans room-07
+2021-11-25 16:47:10,881 - INFO - Kahralan#9034 : Frédéric Chopin dans room-04
+2021-11-25 16:48:57,455 - INFO - Kahralan#9034 : Area 51 dans room-05
+2021-11-25 16:49:08,268 - INFO - Kahralan#9034 : zone 51 dans room-05
+2021-11-25 16:49:27,408 - INFO - Kahralan#9034 : zone51 dans room-05
+2021-11-25 16:50:46,300 - INFO - Kahralan#9034 : 01h16 dans room-06
+2021-11-25 16:52:01,605 - INFO - kikiair#8368 : jaoet dans room-07
+2021-11-25 16:52:08,633 - INFO - kikiair#8368 : jeavt dans room-07
+2021-11-25 16:56:08,086 - INFO - Kahralan#9034 : a l'envers des nuages il y a toujours un ciel dans room-06
+2021-11-25 17:45:34,850 - INFO - totokogure#0483 : j'ai decouvert ton mot de passe changes en rapidement dans room-07
+2021-11-25 17:45:50,976 - INFO - totokogure#0483 : jaidecouverttonmotdepassechangesenrapidement dans room-07
+2021-11-25 17:48:28,833 - INFO - totokogure#0483 : JAIDECOUVERTTONMOTDEPASSECHANGESENRAPIDEMENT dans room-07
+2021-11-25 17:48:45,433 - INFO - totokogure#0483 : J'AI DECOUVERT TON MOT DE PASSE CHANGES EN RAPIDEMENT dans room-07
+2021-11-25 17:48:57,286 - INFO - totokogure#0483 : JAI DECOUVERT TON MOT DE PASSE CHANGES EN RAPIDEMENT dans room-07
+2021-11-25 17:53:43,218 - INFO - totokogure#0483 : j'ai découvert ton mot de passe changes en rapidement dans room-07
+2021-11-25 17:55:46,656 - INFO - totokogure#0483 : c quoi là dans room-08
+2021-11-25 18:16:31,003 - INFO - Yondaime#6523 : Aie aie, y'en a qu'un qui a trouvé dans aide-room
+2021-11-25 18:16:43,000 - INFO - Yondaime#6523 : C'est devenu un Advanced Player dans aide-room
+2021-11-25 19:43:53,660 - INFO - Got a request to RESUME the websocket.
+2021-11-25 19:43:53,904 - INFO - Shard ID None has sent the RESUME payload.
+2021-11-25 19:43:54,008 - INFO - Shard ID None has successfully RESUMED session 7e3dfb37a54e80755fb3f21a23c0f8ca under trace ["gateway-prd-main-z9hg",{"micros":2235,"calls":["discord-sessions-blue-prd-2-29",{"micros":20}]}].
+2021-11-25 20:26:19,501 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2021-11-25 20:26:19,502 - INFO - logging in using static token
+2021-11-25 20:26:19,502 - INFO - Cleaning up tasks.
+2021-11-25 20:26:19,502 - INFO - Closing the event loop.
+2021-11-25 20:26:29,058 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2021-11-25 20:26:29,058 - INFO - logging in using static token
+2021-11-25 20:26:29,604 - INFO - Shard ID None has sent the IDENTIFY payload.
+2021-11-25 20:26:29,786 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-main-5s0b",{"micros":77243,"calls":["discord-sessions-blue-prd-2-18",{"micros":76098,"calls":["start_session",{"micros":46453,"calls":["api-prd-main-sw2g",{"micros":43683,"calls":["get_user",{"micros":9534},"add_authorized_ip",{"micros":2084},"get_guilds",{"micros":4270},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":29145,"calls":[]}]}]}] (Session ID: 87c5c15febb71d84df2ea702be8467a2).
+2021-11-25 20:26:59,431 - INFO - JustTotoro#8192 :  dans general
+2021-11-25 20:26:59,750 - INFO - GameMasterApp#5907 : Bienvenue sur le serveur JustTotoro ! dans general
+2021-11-25 20:27:19,158 - INFO - JustTotoro#8192 : ton père dans room-00
+2021-11-25 20:27:56,860 - INFO - JustTotoro#8192 : Je suis moi dans room-00
+2021-11-25 20:28:24,364 - INFO - JustTotoro#8192 : David dans room-00
+2021-11-25 20:28:26,975 - INFO - JustTotoro#8192 : Moi dans room-00
+2021-11-25 20:28:35,654 - INFO - JustTotoro#8192 : <@!125283979568873472> dans room-00
+2021-11-25 20:30:26,309 - INFO - JustTotoro#8192 : 8192 dans room-00
+2021-11-25 20:30:29,772 - INFO - JustTotoro#8192 : #8192 dans room-00
+2021-11-25 20:31:09,130 - INFO - JustTotoro#8192 : JustTotoro@#8192 dans room-00
+2021-11-25 20:31:23,989 - INFO - JustTotoro#8192 : JustTotoro#8192 dans room-00
+2021-11-25 20:31:28,153 - INFO - JustTotoro#8192 : <@!125283979568873472> dans room-00
+2021-11-25 20:31:46,635 - INFO - JustTotoro#8192 : JustTotoro@#8192 dans room-00
+2021-11-25 20:32:20,407 - INFO - JustTotoro#8192 : justtotoro@#8192 dans room-00
+2021-11-25 20:32:23,973 - INFO - JustTotoro#8192 : justtotoro#8192 dans room-00
+2021-11-25 20:33:02,155 - INFO - JustTotoro#8192 : 45 dans room-01
+2021-11-25 20:33:28,138 - INFO - JustTotoro#8192 : 1 dans room-01
+2021-11-25 20:34:47,547 - INFO - JustTotoro#8192 : bravo dans room-02
+2021-11-25 20:37:00,331 - INFO - JustTotoro#8192 : jeux olympiques dans room-03
+2021-11-25 20:39:36,512 - INFO - JustTotoro#8192 : 2004 dans room-03
+2021-11-25 20:40:10,951 - INFO - JustTotoro#8192 : taufik hidayat dans room-03
+2021-11-25 20:40:21,018 - INFO - JustTotoro#8192 : Taufik Hidayat dans room-03
+2021-11-25 20:43:36,824 - INFO - JustTotoro#8192 : Zhang Ning dans room-03
+2021-11-25 20:44:13,619 - INFO - JustTotoro#8192 : Frédéric chopin dans room-04
+2021-11-25 20:44:38,917 - INFO - JustTotoro#8192 : area 51 dans room-05
+2021-11-25 20:44:43,100 - INFO - JustTotoro#8192 : zone 51 dans room-05
+2021-11-25 20:45:10,533 - INFO - JustTotoro#8192 : Zone 51 dans room-05
+2021-11-25 20:45:16,126 - INFO - JustTotoro#8192 : Nevada dans room-05
+2021-11-25 20:45:21,344 - INFO - JustTotoro#8192 : Area 51 dans room-05
+2021-11-25 20:45:27,749 - INFO - JustTotoro#8192 : zone51 dans room-05
+2021-11-25 20:51:39,409 - INFO - JustTotoro#8192 : à l'envers des nuages il y a toujours un ciel dans room-06
+2021-11-25 20:52:00,936 - INFO - JustTotoro#8192 : a l'envers des nuages il y a toujours un ciel dans room-06
+2021-11-25 20:58:58,008 - INFO - Got a request to RESUME the websocket.
+2021-11-25 20:58:58,266 - INFO - Shard ID None has sent the RESUME payload.
+2021-11-25 20:58:58,401 - INFO - Shard ID None has successfully RESUMED session 87c5c15febb71d84df2ea702be8467a2 under trace ["gateway-prd-main-s6fh",{"micros":4359,"calls":["discord-sessions-blue-prd-2-18",{"micros":17}]}].
+2021-11-25 21:18:46,667 - INFO - totokogure#0483 : c'était chaud la room 99 dans aide-room
+2021-11-25 21:33:56,056 - INFO - Got a request to RESUME the websocket.
+2021-11-25 21:33:56,344 - INFO - Shard ID None has sent the RESUME payload.
+2021-11-25 21:33:56,452 - INFO - Shard ID None has successfully RESUMED session 87c5c15febb71d84df2ea702be8467a2 under trace ["gateway-prd-main-9526",{"micros":829,"calls":["discord-sessions-blue-prd-2-18",{"micros":18}]}].
+2021-11-25 22:15:37,316 - INFO - Got a request to RESUME the websocket.
+2021-11-25 22:15:37,678 - INFO - Shard ID None has sent the RESUME payload.
+2021-11-25 22:15:37,797 - INFO - Shard ID None has successfully RESUMED session 87c5c15febb71d84df2ea702be8467a2 under trace ["gateway-prd-main-0mlb",{"micros":608,"calls":["discord-sessions-blue-prd-2-18",{"micros":18}]}].
+2021-11-25 23:26:19,440 - INFO - Wowo#2991 : JAIDECOUVERTTONMOTDEPASSECHANGESENRAPIDEMENT dans room-07
+2021-11-25 23:26:39,991 - INFO - Wowo#2991 : jaidecouverttonmotdepassechangesenrapidement dans room-07
+2021-11-25 23:27:01,503 - INFO - Wowo#2991 : j ai decouvert ton mot de passe changes en rapidement dans room-07
+2021-11-25 23:27:10,460 - INFO - Wowo#2991 : jai decouvert ton mot de passe changes en rapidement dans room-07
+2021-11-25 23:33:08,812 - INFO - Wowo#2991 : j'ai découvert ton mot de passe changes en rapidement dans room-07
+2021-11-26 00:33:15,085 - INFO - Got a request to RESUME the websocket.
+2021-11-26 00:33:15,775 - INFO - Shard ID None has sent the RESUME payload.
+2021-11-26 00:33:15,874 - INFO - Shard ID None has successfully RESUMED session 87c5c15febb71d84df2ea702be8467a2 under trace ["gateway-prd-main-rfkq",{"micros":496,"calls":["discord-sessions-blue-prd-2-18",{"micros":15}]}].
+2021-11-26 01:05:03,026 - INFO - Got a request to RESUME the websocket.
+2021-11-26 01:05:04,242 - INFO - Shard ID None has sent the RESUME payload.
+2021-11-26 01:05:04,339 - INFO - Shard ID None has successfully RESUMED session 87c5c15febb71d84df2ea702be8467a2 under trace ["gateway-prd-main-3stg",{"micros":700,"calls":["discord-sessions-blue-prd-2-18",{"micros":18}]}].
+2021-11-26 02:25:20,344 - INFO - Got a request to RESUME the websocket.
+2021-11-26 02:25:21,031 - INFO - Shard ID None has sent the RESUME payload.
+2021-11-26 02:25:21,139 - INFO - Shard ID None has successfully RESUMED session 87c5c15febb71d84df2ea702be8467a2 under trace ["gateway-prd-main-hxjl",{"micros":9968,"calls":["discord-sessions-blue-prd-2-18",{"micros":20}]}].
+2021-11-26 03:30:44,034 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2021-11-26 03:30:44,034 - INFO - logging in using static token
+2021-11-26 03:30:44,034 - INFO - Cleaning up tasks.
+2021-11-26 03:30:44,034 - INFO - Closing the event loop.
+2021-11-26 03:30:49,681 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2021-11-26 03:30:49,681 - INFO - logging in using static token
+2021-11-26 03:30:50,192 - INFO - Shard ID None has sent the IDENTIFY payload.
+2021-11-26 03:30:50,353 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-main-drcs",{"micros":62171,"calls":["discord-sessions-blue-prd-2-143",{"micros":61266,"calls":["start_session",{"micros":32150,"calls":["api-prd-main-8m5w",{"micros":28873,"calls":["get_user",{"micros":3361},"add_authorized_ip",{"micros":2277},"get_guilds",{"micros":4551},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":28584,"calls":[]}]}]}] (Session ID: 739a6482af33a61c8184e331f7b19804).
+2021-11-26 03:31:51,033 - INFO - Yondaime#6523 : Il s'emblerait qu'une expression se cache derrière cette énigme...
+ACHAMPA dans room-08
+2021-11-26 03:45:53,881 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2021-11-26 03:45:53,882 - INFO - logging in using static token
+2021-11-26 03:45:54,343 - INFO - Shard ID None has sent the IDENTIFY payload.
+2021-11-26 03:45:54,519 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-main-8wp4",{"micros":77591,"calls":["discord-sessions-blue-prd-2-41",{"micros":76382,"calls":["start_session",{"micros":33580,"calls":["api-prd-main-s4zj",{"micros":28682,"calls":["get_user",{"micros":3615},"add_authorized_ip",{"micros":3171},"get_guilds",{"micros":4316},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":42148,"calls":[]}]}]}] (Session ID: 9c9f249949042fff3de34dddb45955b6).
+2021-11-26 03:48:08,357 - INFO - Yondaime#6523 :  dans room-03
+2021-11-26 03:48:52,991 - INFO - Yondaime#6523 :  dans room-03
+2021-11-26 03:51:04,079 - INFO - Yondaime#6523 :  dans room-03
+2021-11-26 04:09:30,775 - INFO - Wowo#2991 : a tout bout de champ dans room-08
+2021-11-26 04:10:04,357 - INFO - Wowo#2991 : zoe dans room-09
+2021-11-26 04:10:23,399 - INFO - Wowo#2991 : zöe dans room-09
+2021-11-26 04:12:09,450 - INFO - Wowo#2991 : Nöel dans room-09
+2021-11-26 04:12:28,753 - INFO - Wowo#2991 : Noël dans room-09
+2021-11-26 04:12:48,940 - INFO - Wowo#2991 : Zoë dans room-09
+2021-11-26 04:14:02,805 - INFO - Wowo#2991 : 13:22 dans room-09
+2021-11-26 04:14:21,699 - INFO - Wowo#2991 : 13:022 dans room-09
+2021-11-26 04:14:34,913 - INFO - Wowo#2991 : 13:1422 dans room-09
+2021-11-26 04:15:59,042 - INFO - Wowo#2991 : N:ow dans room-09
+2021-11-26 04:35:45,350 - INFO - Got a request to RESUME the websocket.
+2021-11-26 04:35:45,580 - INFO - Shard ID None has sent the RESUME payload.
+2021-11-26 04:35:45,677 - INFO - Shard ID None has successfully RESUMED session 9c9f249949042fff3de34dddb45955b6 under trace ["gateway-prd-main-8g65",{"micros":552,"calls":["discord-sessions-blue-prd-2-41",{"micros":18}]}].
+2021-11-26 07:38:03,679 - INFO - Got a request to RESUME the websocket.
+2021-11-26 07:38:03,906 - INFO - Shard ID None has sent the RESUME payload.
+2021-11-26 07:38:04,004 - INFO - Shard ID None has successfully RESUMED session 9c9f249949042fff3de34dddb45955b6 under trace ["gateway-prd-main-d28m",{"micros":794,"calls":["discord-sessions-blue-prd-2-41",{"micros":14}]}].
+2021-11-26 10:09:26,062 - INFO - totokogure#0483 : A tout bout de champ dans room-08
+2021-11-26 10:09:39,580 - INFO - totokogure#0483 : NOW dans room-09
+2021-11-26 10:13:58,764 - INFO - totokogure#0483 : maintenant dans room-09
+2021-11-26 10:14:16,239 - INFO - totokogure#0483 : 1637918045 dans room-09
+2021-11-26 10:14:28,724 - INFO - totokogure#0483 : 1637918065 dans room-09
+2021-11-26 10:15:35,550 - INFO - totokogure#0483 : snooze dans room-09
+2021-11-26 10:17:17,309 - INFO - totokogure#0483 : TIME IS NOW dans room-09
+2021-11-26 10:17:43,007 - INFO - totokogure#0483 : Russell dans room-09
+2021-11-26 10:18:24,750 - INFO - totokogure#0483 : D'Angelo Russell dans room-09
+2021-11-26 10:18:30,025 - INFO - totokogure#0483 : D'Angelo Russell dans room-09
+2021-11-26 10:18:39,701 - INFO - totokogure#0483 : Russell D'Angelo dans room-09
+2021-11-26 10:39:24,930 - INFO - totokogure#0483 : https://now.onlineclock.net/ dans room-09
+2021-11-26 10:39:51,172 - INFO - Got a request to RESUME the websocket.
+2021-11-26 10:39:51,405 - INFO - Shard ID None has sent the RESUME payload.
+2021-11-26 10:39:51,504 - INFO - Shard ID None has successfully RESUMED session 9c9f249949042fff3de34dddb45955b6 under trace ["gateway-prd-main-zzkj",{"micros":504,"calls":["discord-sessions-blue-prd-2-41",{"micros":15}]}].
+2021-11-26 10:39:54,583 - INFO - totokogure#0483 : Online Clock dans room-09
+2021-11-26 12:50:24,068 - INFO - Got a request to RESUME the websocket.
+2021-11-26 12:50:24,341 - INFO - Shard ID None has sent the RESUME payload.
+2021-11-26 12:50:24,449 - INFO - Shard ID None has successfully RESUMED session 9c9f249949042fff3de34dddb45955b6 under trace ["gateway-prd-main-7k1z",{"micros":648,"calls":["discord-sessions-blue-prd-2-41",{"micros":16}]}].
+2021-11-26 12:54:13,379 - INFO - Wowo#2991 : 14:38 dans room-09
+2021-11-26 12:57:07,778 - INFO - Wowo#2991 : 06:57 dans room-09
+2021-11-26 12:57:10,971 - INFO - Wowo#2991 : 12:57 dans room-09
+2021-11-26 13:20:21,151 - INFO - totokogure#0483 : 13:20 dans room-09
+2021-11-26 13:20:28,020 - INFO - totokogure#0483 : iop dans room-10
+2021-11-26 13:20:32,221 - INFO - totokogure#0483 : wowo dans room-10
+2021-11-26 13:20:40,653 - INFO - Wowo#2991 : now() dans room-10
+2021-11-26 13:41:43,749 - INFO - Wowo#2991 : Quel bg ce toto dans room-10
+2021-11-26 14:26:58,211 - INFO - Marjo#3994 :  dans general
+2021-11-26 14:26:58,554 - INFO - GameMasterApp#5907 : Bienvenue sur le serveur Marjo ! dans general
+2021-11-26 14:29:45,315 - INFO - Marjo#3994 : Marjo dans room-00
+2021-11-26 14:30:19,519 - INFO - Marjo#3994 : Marjo#3994 dans room-00
+2021-11-26 16:19:42,276 - INFO - Got a request to RESUME the websocket.
+2021-11-26 16:19:42,553 - INFO - Shard ID None has sent the RESUME payload.
+2021-11-26 16:19:42,656 - INFO - Shard ID None has successfully RESUMED session 9c9f249949042fff3de34dddb45955b6 under trace ["gateway-prd-main-hnsh",{"micros":617,"calls":["discord-sessions-blue-prd-2-41",{"micros":26}]}].
+2021-11-26 16:36:31,891 - INFO - Got a request to RESUME the websocket.
+2021-11-26 16:36:32,169 - INFO - Shard ID None has sent the RESUME payload.
+2021-11-26 16:36:32,267 - INFO - Shard ID None has successfully RESUMED session 9c9f249949042fff3de34dddb45955b6 under trace ["gateway-prd-main-s7rp",{"micros":684,"calls":["discord-sessions-blue-prd-2-41",{"micros":18}]}].
+2021-11-26 16:36:40,151 - INFO - Coco#6129 : eric-emmanuel dans room-06
+2021-11-26 16:36:45,708 - INFO - Coco#6129 : schmitt dans room-06
+2021-11-26 16:36:51,047 - INFO - Coco#6129 : schmitt dans room-06
+2021-11-26 16:37:03,610 - INFO - Coco#6129 : ericemmanuelschmitt dans room-06
+2021-11-26 16:37:21,767 - INFO - Coco#6129 : eric-emmanuelschmitt dans room-06
+2021-11-26 16:38:09,366 - INFO - Coco#6129 : ericemmanuelschmitt dans room-06
+2021-11-26 16:38:19,493 - INFO - Coco#6129 : eric-emmanuelschmitt dans room-06
+2021-11-26 16:39:34,844 - INFO - Coco#6129 : muhammadalfaytury dans room-06
+2021-11-26 16:39:49,732 - INFO - Coco#6129 : muhammadarlfaytury dans room-06
+2021-11-26 16:39:55,309 - INFO - Coco#6129 : muhammad dans room-06
+2021-11-26 16:40:02,132 - INFO - Coco#6129 : alfaytury dans room-06
+2021-11-26 16:40:07,958 - INFO - Coco#6129 : alfaytury dans room-06
+2021-11-26 16:40:21,841 - INFO - Coco#6129 : muhammadalfaytury dans room-06
+2021-11-26 16:40:52,906 - INFO - Coco#6129 : mûhammadalfaytûry dans room-06
+2021-11-26 16:41:12,156 - INFO - Coco#6129 : mûhammadalfaytûry dans room-06
+2021-11-26 16:41:44,399 - INFO - Coco#6129 : muhammadal-faytury dans room-06
+2021-11-26 16:42:04,321 - INFO - Coco#6129 : mûhammadal-faytûry dans room-06
+2021-11-26 16:42:24,720 - INFO - Coco#6129 : mûhammadal-faytûry dans room-06
+2021-11-26 16:42:40,747 - INFO - Coco#6129 : Mûhammad Al-Faytûry dans room-06
+2021-11-26 16:42:59,149 - INFO - Coco#6129 : alenversdesnuagesilyatoujoursunciel dans room-06
+2021-11-26 16:43:13,882 - INFO - Coco#6129 : al'enversdesnuages,ilyatoujoursunciel dans room-06
+2021-11-26 16:43:26,342 - INFO - Coco#6129 : alenversdesnuagesilyatoujoursunciel. dans room-06
+2021-11-26 16:43:39,491 - INFO - Coco#6129 : alenversdesnuagesilyatoujoursunciel dans room-06
+2021-11-26 16:44:20,695 - INFO - Coco#6129 : 1930 dans room-06
+2021-11-26 16:45:17,774 - INFO - Coco#6129 : Mûhammad Al-Faytûry dans room-06
+2021-11-26 16:45:22,539 - INFO - Coco#6129 : MûhammadAl-Faytûry dans room-06
+2021-11-26 16:45:30,874 - INFO - Coco#6129 : mûhammadal-faytûry dans room-06
+2021-11-26 16:51:20,764 - INFO - Coco#6129 : citation dans room-06
+2021-11-26 16:51:28,967 - INFO - Coco#6129 : nuages dans room-06
+2021-11-26 16:51:58,636 - INFO - Coco#6129 : météo dans room-06
+2021-11-26 16:51:59,332 - INFO - Coco#6129 : meteo dans room-06
+2021-11-26 17:04:35,169 - INFO - Got a request to RESUME the websocket.
+2021-11-26 17:04:35,420 - INFO - Shard ID None has sent the RESUME payload.
+2021-11-26 17:04:35,519 - INFO - Shard ID None has successfully RESUMED session 9c9f249949042fff3de34dddb45955b6 under trace ["gateway-prd-main-p6jp",{"micros":622,"calls":["discord-sessions-blue-prd-2-41",{"micros":19}]}].
+2021-11-26 20:28:14,753 - INFO - Got a request to RESUME the websocket.
+2021-11-26 20:28:15,011 - INFO - Shard ID None has sent the RESUME payload.
+2021-11-26 20:28:15,119 - INFO - Shard ID None has successfully RESUMED session 9c9f249949042fff3de34dddb45955b6 under trace ["gateway-prd-main-28ns",{"micros":621,"calls":["discord-sessions-blue-prd-2-41",{"micros":19}]}].
+2021-11-26 22:02:16,975 - INFO - Got a request to RESUME the websocket.
+2021-11-26 22:02:17,264 - INFO - Shard ID None has sent the RESUME payload.
+2021-11-26 22:02:17,363 - INFO - Shard ID None has successfully RESUMED session 9c9f249949042fff3de34dddb45955b6 under trace ["gateway-prd-main-rqrs",{"micros":2798,"calls":["discord-sessions-blue-prd-2-41",{"micros":23}]}].
+2021-11-26 23:49:19,556 - INFO - Coco#6129 : muhammad alfaytury dans room-06
+2021-11-26 23:49:27,682 - INFO - Coco#6129 : muhammad al faytury dans room-06
+2021-11-26 23:49:36,848 - INFO - Coco#6129 : muhammad al'faytury dans room-06
+2021-11-26 23:50:01,349 - INFO - Coco#6129 : norin et tarabay dans room-06
+2021-11-26 23:50:49,166 - INFO - Coco#6129 : citation dans room-06
+2021-11-26 23:51:05,691 - INFO - Coco#6129 : a l'envers des nuages il y a toujours un ciel dans room-06
+2021-11-27 01:16:37,736 - INFO - Got a request to RESUME the websocket.
+2021-11-27 01:16:37,963 - INFO - Shard ID None has sent the RESUME payload.
+2021-11-27 01:16:38,059 - INFO - Shard ID None has successfully RESUMED session 9c9f249949042fff3de34dddb45955b6 under trace ["gateway-prd-main-n33d",{"micros":503,"calls":["discord-sessions-blue-prd-2-41",{"micros":16}]}].
+2021-11-27 03:06:09,446 - INFO - Got a request to RESUME the websocket.
+2021-11-27 03:06:09,675 - INFO - Shard ID None has sent the RESUME payload.
+2021-11-27 03:06:09,777 - INFO - Shard ID None has successfully RESUMED session 9c9f249949042fff3de34dddb45955b6 under trace ["gateway-prd-main-jzx3",{"micros":676,"calls":["discord-sessions-blue-prd-2-41",{"micros":15}]}].
+2021-11-27 06:35:31,219 - INFO - Got a request to RESUME the websocket.
+2021-11-27 06:35:31,446 - INFO - Shard ID None has sent the RESUME payload.
+2021-11-27 06:35:31,546 - INFO - Shard ID None has successfully RESUMED session 9c9f249949042fff3de34dddb45955b6 under trace ["gateway-prd-main-zzkj",{"micros":3765,"calls":["discord-sessions-blue-prd-2-41",{"micros":16}]}].
+2021-11-27 07:14:32,799 - INFO - Got a request to RESUME the websocket.
+2021-11-27 07:14:33,044 - INFO - Shard ID None has sent the RESUME payload.
+2021-11-27 07:14:33,145 - INFO - Shard ID None has successfully RESUMED session 9c9f249949042fff3de34dddb45955b6 under trace ["gateway-prd-main-5cp5",{"micros":497,"calls":["discord-sessions-blue-prd-2-41",{"micros":18}]}].
+2021-11-27 08:48:22,763 - INFO - Got a request to RESUME the websocket.
+2021-11-27 08:48:23,031 - INFO - Shard ID None has sent the RESUME payload.
+2021-11-27 08:48:23,135 - INFO - Shard ID None has successfully RESUMED session 9c9f249949042fff3de34dddb45955b6 under trace ["gateway-prd-main-mfw1",{"micros":461,"calls":["discord-sessions-blue-prd-2-41",{"micros":16}]}].
+2021-11-27 10:11:29,329 - INFO - Got a request to RESUME the websocket.
+2021-11-27 10:11:29,569 - INFO - Shard ID None has sent the RESUME payload.
+2021-11-27 10:11:29,667 - INFO - Shard ID None has successfully RESUMED session 9c9f249949042fff3de34dddb45955b6 under trace ["gateway-prd-main-r8wr",{"micros":509,"calls":["discord-sessions-blue-prd-2-41",{"micros":20}]}].
+2021-11-27 10:38:49,708 - INFO - Got a request to RESUME the websocket.
+2021-11-27 10:38:49,969 - INFO - Shard ID None has sent the RESUME payload.
+2021-11-27 10:38:50,066 - INFO - Shard ID None has successfully RESUMED session 9c9f249949042fff3de34dddb45955b6 under trace ["gateway-prd-main-62cv",{"micros":735,"calls":["discord-sessions-blue-prd-2-41",{"micros":18}]}].
+2021-11-27 13:25:35,670 - INFO - Got a request to RESUME the websocket.
+2021-11-27 13:25:35,929 - INFO - Shard ID None has sent the RESUME payload.
+2021-11-27 13:25:36,028 - INFO - Shard ID None has successfully RESUMED session 9c9f249949042fff3de34dddb45955b6 under trace ["gateway-prd-main-x7nq",{"micros":568,"calls":["discord-sessions-blue-prd-2-41",{"micros":23}]}].
+2021-11-27 15:00:04,155 - INFO - Got a request to RESUME the websocket.
+2021-11-27 15:00:04,441 - INFO - Shard ID None has sent the RESUME payload.
+2021-11-27 15:00:04,543 - INFO - Shard ID None has successfully RESUMED session 9c9f249949042fff3de34dddb45955b6 under trace ["gateway-prd-main-00p9",{"micros":3095,"calls":["discord-sessions-blue-prd-2-41",{"micros":17}]}].
+2021-11-27 18:21:31,858 - INFO - Got a request to RESUME the websocket.
+2021-11-27 18:21:32,521 - INFO - Shard ID None has sent the RESUME payload.
+2021-11-27 18:21:32,624 - INFO - Shard ID None has successfully RESUMED session 9c9f249949042fff3de34dddb45955b6 under trace ["gateway-prd-main-8f6s",{"micros":798,"calls":["discord-sessions-blue-prd-2-41",{"micros":19}]}].
+2021-11-27 19:11:58,990 - INFO - Got a request to RESUME the websocket.
+2021-11-27 19:11:59,523 - INFO - Shard ID None has sent the RESUME payload.
+2021-11-27 19:11:59,624 - INFO - Shard ID None has successfully RESUMED session 9c9f249949042fff3de34dddb45955b6 under trace ["gateway-prd-main-8hsl",{"micros":3004,"calls":["discord-sessions-blue-prd-2-41",{"micros":21}]}].
+2021-11-27 19:47:26,493 - INFO - Wowo#2991 : invisible dans room-10
+2021-11-27 21:05:18,188 - INFO - Got a request to RESUME the websocket.
+2021-11-27 21:05:18,635 - INFO - Shard ID None has sent the RESUME payload.
+2021-11-27 21:05:18,742 - INFO - Shard ID None has successfully RESUMED session 9c9f249949042fff3de34dddb45955b6 under trace ["gateway-prd-main-qn3x",{"micros":2682,"calls":["discord-sessions-blue-prd-2-41",{"micros":17}]}].
+2021-12-11 00:01:55,396 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2021-12-11 00:01:55,397 - INFO - logging in using static token
+2021-12-11 00:01:55,397 - INFO - Cleaning up tasks.
+2021-12-11 00:01:55,397 - INFO - Closing the event loop.
+2021-12-11 00:03:53,446 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2021-12-11 00:03:53,446 - INFO - logging in using static token
+2021-12-11 00:03:54,012 - INFO - Shard ID None has sent the IDENTIFY payload.
+2021-12-11 00:03:54,211 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-main-djhr",{"micros":100239,"calls":["discord-sessions-green-prd-2-81",{"micros":99310,"calls":["start_session",{"micros":48001,"calls":["api-prd-main-nmrl",{"micros":44635,"calls":["get_user",{"micros":4661},"add_authorized_ip",{"micros":3301},"get_guilds",{"micros":8336},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":45344,"calls":[]}]}]}] (Session ID: 492cf274878357bef43c1cfd2767dbc0).
+2021-12-11 00:15:16,275 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2021-12-11 00:15:16,275 - INFO - logging in using static token
+2021-12-11 00:15:16,275 - INFO - Cleaning up tasks.
+2021-12-11 00:15:16,275 - INFO - Closing the event loop.
+2021-12-11 08:27:40,829 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2021-12-11 08:27:40,829 - INFO - logging in using static token
+2021-12-11 08:27:40,829 - INFO - Cleaning up tasks.
+2021-12-11 08:27:40,829 - INFO - Closing the event loop.
+2021-12-11 08:28:22,985 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2021-12-11 08:28:22,985 - INFO - logging in using static token
+2021-12-11 08:28:23,563 - INFO - Shard ID None has sent the IDENTIFY payload.
+2021-12-11 08:28:23,836 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-main-w5jn",{"micros":172178,"calls":["discord-sessions-green-prd-2-137",{"micros":171200,"calls":["start_session",{"micros":86037,"calls":["api-prd-main-wrhk",{"micros":82936,"calls":["get_user",{"micros":7094},"add_authorized_ip",{"micros":4575},"get_guilds",{"micros":11581},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":49941,"calls":[]}]}]}] (Session ID: bd5698dc9db759c7763de74680767456).
+2021-12-11 10:43:19,182 - INFO - Got a request to RESUME the websocket.
+2021-12-11 10:43:19,446 - INFO - Shard ID None has sent the RESUME payload.
+2021-12-11 10:43:19,545 - INFO - Shard ID None has successfully RESUMED session bd5698dc9db759c7763de74680767456 under trace ["gateway-prd-main-2s4s",{"micros":530,"calls":["discord-sessions-green-prd-2-137",{"micros":17}]}].
+2021-12-11 11:08:28,924 - INFO - Got a request to RESUME the websocket.
+2021-12-11 11:08:29,188 - INFO - Shard ID None has sent the RESUME payload.
+2021-12-11 11:08:29,291 - INFO - Shard ID None has successfully RESUMED session bd5698dc9db759c7763de74680767456 under trace ["gateway-prd-main-tnpk",{"micros":4957,"calls":["discord-sessions-green-prd-2-137",{"micros":16}]}].
+2021-12-11 12:35:13,693 - INFO - Wowo#2991 : 30 dans room-10
+2021-12-11 12:38:48,087 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2021-12-11 12:38:48,088 - INFO - logging in using static token
+2021-12-11 12:38:48,088 - INFO - Cleaning up tasks.
+2021-12-11 12:38:48,088 - INFO - Closing the event loop.
+2021-12-11 12:39:14,293 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2021-12-11 12:39:14,293 - INFO - logging in using static token
+2021-12-11 12:39:14,809 - INFO - Shard ID None has sent the IDENTIFY payload.
+2021-12-11 12:39:14,990 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-main-rhrd",{"micros":80651,"calls":["discord-sessions-green-prd-2-8",{"micros":79912,"calls":["start_session",{"micros":40520,"calls":["api-prd-main-876f",{"micros":37483,"calls":["get_user",{"micros":5659},"add_authorized_ip",{"micros":6594},"get_guilds",{"micros":4379},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":38898,"calls":[]}]}]}] (Session ID: 4de4fb3ae91a3280adfe0ce646ec6322).
+2021-12-11 12:39:27,120 - INFO - Wowo#2991 : 30 dans room-10
+2021-12-11 13:32:55,733 - INFO - Got a request to RESUME the websocket.
+2021-12-11 13:32:56,029 - INFO - Shard ID None has sent the RESUME payload.
+2021-12-11 13:32:56,128 - INFO - Shard ID None has successfully RESUMED session 4de4fb3ae91a3280adfe0ce646ec6322 under trace ["gateway-prd-main-ck2q",{"micros":646,"calls":["discord-sessions-green-prd-2-8",{"micros":15}]}].
+2021-12-11 14:12:33,843 - INFO - Got a request to RESUME the websocket.
+2021-12-11 14:12:34,132 - INFO - Shard ID None has sent the RESUME payload.
+2021-12-11 14:12:34,244 - INFO - Shard ID None has successfully RESUMED session 4de4fb3ae91a3280adfe0ce646ec6322 under trace ["gateway-prd-main-9h8w",{"micros":4799,"calls":["discord-sessions-green-prd-2-8",{"micros":16}]}].
+2021-12-11 16:22:05,903 - INFO - Got a request to RESUME the websocket.
+2021-12-11 16:22:06,197 - INFO - Shard ID None has sent the RESUME payload.
+2021-12-11 16:22:06,300 - INFO - Shard ID None has successfully RESUMED session 4de4fb3ae91a3280adfe0ce646ec6322 under trace ["gateway-prd-main-ppht",{"micros":1788,"calls":["discord-sessions-green-prd-2-8",{"micros":14}]}].
+2021-12-11 18:39:54,630 - INFO - Got a request to RESUME the websocket.
+2021-12-11 18:39:55,027 - INFO - Shard ID None has sent the RESUME payload.
+2021-12-11 18:39:55,130 - INFO - Shard ID None has successfully RESUMED session 4de4fb3ae91a3280adfe0ce646ec6322 under trace ["gateway-prd-main-xhvr",{"micros":2349,"calls":["discord-sessions-green-prd-2-8",{"micros":23}]}].
+2021-12-11 20:40:27,860 - INFO - Got a request to RESUME the websocket.
+2021-12-11 20:40:28,353 - INFO - Shard ID None has sent the RESUME payload.
+2021-12-11 20:40:28,463 - INFO - Shard ID None has successfully RESUMED session 4de4fb3ae91a3280adfe0ce646ec6322 under trace ["gateway-prd-main-rfkq",{"micros":528,"calls":["discord-sessions-green-prd-2-8",{"micros":14}]}].
+2021-12-12 00:34:33,774 - INFO - Got a request to RESUME the websocket.
+2021-12-12 00:34:34,153 - INFO - Shard ID None has sent the RESUME payload.
+2021-12-12 00:34:34,267 - INFO - Shard ID None has successfully RESUMED session 4de4fb3ae91a3280adfe0ce646ec6322 under trace ["gateway-prd-main-2s4s",{"micros":5511,"calls":["discord-sessions-green-prd-2-8",{"micros":19}]}].
+2021-12-12 03:27:01,396 - INFO - Got a request to RESUME the websocket.
+2021-12-12 03:27:01,776 - INFO - Shard ID None has sent the RESUME payload.
+2021-12-12 03:27:01,874 - INFO - Shard ID None has successfully RESUMED session 4de4fb3ae91a3280adfe0ce646ec6322 under trace ["gateway-prd-main-v07b",{"micros":597,"calls":["discord-sessions-green-prd-2-8",{"micros":19}]}].
+2021-12-12 05:56:09,998 - INFO - Got a request to RESUME the websocket.
+2021-12-12 05:56:10,488 - INFO - Shard ID None has sent the RESUME payload.
+2021-12-12 05:56:10,587 - INFO - Shard ID None has successfully RESUMED session 4de4fb3ae91a3280adfe0ce646ec6322 under trace ["gateway-prd-main-409b",{"micros":1288,"calls":["discord-sessions-green-prd-2-8",{"micros":17}]}].
+2021-12-12 09:24:19,854 - INFO - Got a request to RESUME the websocket.
+2021-12-12 09:24:20,103 - INFO - Shard ID None has sent the RESUME payload.
+2021-12-12 09:24:20,203 - INFO - Shard ID None has successfully RESUMED session 4de4fb3ae91a3280adfe0ce646ec6322 under trace ["gateway-prd-main-tr0g",{"micros":937,"calls":["discord-sessions-green-prd-2-8",{"micros":16}]}].
+2021-12-12 11:54:12,760 - INFO - Got a request to RESUME the websocket.
+2021-12-12 11:54:13,051 - INFO - Shard ID None has sent the RESUME payload.
+2021-12-12 11:54:13,157 - INFO - Shard ID None has successfully RESUMED session 4de4fb3ae91a3280adfe0ce646ec6322 under trace ["gateway-prd-main-7vsp",{"micros":4535,"calls":["discord-sessions-green-prd-2-8",{"micros":15}]}].
+2021-12-12 14:33:31,390 - INFO - Got a request to RESUME the websocket.
+2021-12-12 14:33:31,643 - INFO - Shard ID None has sent the RESUME payload.
+2021-12-12 14:33:31,741 - INFO - Shard ID None has successfully RESUMED session 4de4fb3ae91a3280adfe0ce646ec6322 under trace ["gateway-prd-main-n42h",{"micros":700,"calls":["discord-sessions-green-prd-2-8",{"micros":16}]}].
+2021-12-12 16:00:22,855 - INFO - Got a request to RESUME the websocket.
+2021-12-12 16:00:23,384 - INFO - Shard ID None has sent the RESUME payload.
+2021-12-12 16:00:23,488 - INFO - Shard ID None has successfully RESUMED session 4de4fb3ae91a3280adfe0ce646ec6322 under trace ["gateway-prd-main-gfll",{"micros":1450,"calls":["discord-sessions-green-prd-2-8",{"micros":35}]}].
+2021-12-12 16:50:29,486 - INFO - Got a request to RESUME the websocket.
+2021-12-12 16:50:30,008 - INFO - Shard ID None has sent the RESUME payload.
+2021-12-12 16:50:30,113 - INFO - Shard ID None has successfully RESUMED session 4de4fb3ae91a3280adfe0ce646ec6322 under trace ["gateway-prd-main-z7w9",{"micros":6684,"calls":["discord-sessions-green-prd-2-8",{"micros":17}]}].
+2021-12-12 19:36:00,696 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2021-12-12 19:36:00,696 - INFO - logging in using static token
+2021-12-12 19:36:00,696 - INFO - Cleaning up tasks.
+2021-12-12 19:36:00,696 - INFO - Closing the event loop.
+2021-12-12 19:36:20,591 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2021-12-12 19:36:20,592 - INFO - logging in using static token
+2021-12-12 19:36:21,190 - INFO - Shard ID None has sent the IDENTIFY payload.
+2021-12-12 19:36:21,352 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-main-1jq6",{"micros":63785,"calls":["discord-sessions-green-prd-2-32",{"micros":61094,"calls":["start_session",{"micros":50603,"calls":["api-prd-main-ms2d",{"micros":45841,"calls":["get_user",{"micros":3759},"add_authorized_ip",{"micros":3409},"get_guilds",{"micros":8350},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: 95aede27ba2fcb20fe172051d51aac1c).
+2021-12-12 19:36:39,563 - INFO - Marjo#3994 : 5 dans room-01
+2021-12-12 20:21:40,448 - INFO - Got a request to RESUME the websocket.
+2021-12-12 20:21:40,717 - INFO - Shard ID None has sent the RESUME payload.
+2021-12-12 20:21:40,819 - INFO - Shard ID None has successfully RESUMED session 95aede27ba2fcb20fe172051d51aac1c under trace ["gateway-prd-main-bs83",{"micros":630,"calls":["discord-sessions-green-prd-2-32",{"micros":18}]}].
+2021-12-12 22:05:54,960 - INFO - Got a request to RESUME the websocket.
+2021-12-12 22:05:55,473 - INFO - Shard ID None has sent the RESUME payload.
+2021-12-12 22:05:55,577 - INFO - Shard ID None has successfully RESUMED session 95aede27ba2fcb20fe172051d51aac1c under trace ["gateway-prd-main-gr7l",{"micros":1821,"calls":["discord-sessions-green-prd-2-32",{"micros":20}]}].
+2021-12-12 22:34:46,731 - INFO - Got a request to RESUME the websocket.
+2021-12-12 22:34:47,089 - INFO - Shard ID None has sent the RESUME payload.
+2021-12-12 22:34:47,189 - INFO - Shard ID None has successfully RESUMED session 95aede27ba2fcb20fe172051d51aac1c under trace ["gateway-prd-main-tn1q",{"micros":600,"calls":["discord-sessions-green-prd-2-32",{"micros":17}]}].
+2021-12-16 23:41:21,106 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2021-12-16 23:41:21,106 - INFO - logging in using static token
+2021-12-16 23:41:21,106 - INFO - Cleaning up tasks.
+2021-12-16 23:41:21,106 - INFO - Closing the event loop.
+2021-12-16 23:41:53,113 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2021-12-16 23:41:53,113 - INFO - logging in using static token
+2021-12-16 23:41:53,768 - INFO - Shard ID None has sent the IDENTIFY payload.
+2021-12-16 23:41:53,969 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-main-lpz7",{"micros":102809,"calls":["discord-sessions-blue-prd-2-4",{"micros":101219,"calls":["start_session",{"micros":47229,"calls":["api-prd-main-v9ss",{"micros":43826,"calls":["get_user",{"micros":2853},"add_authorized_ip",{"micros":2314},"get_guilds",{"micros":7621},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":0,"calls":[]}]}]}] (Session ID: 1cfe0ba8680435c4e686f75cef33ce3c).
+2021-12-16 23:44:53,526 - INFO - Marjo#3994 : 1 dans room-01
+2021-12-17 00:13:00,487 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2021-12-17 00:13:00,487 - INFO - logging in using static token
+2021-12-17 00:13:00,487 - INFO - Cleaning up tasks.
+2021-12-17 00:13:00,488 - INFO - Closing the event loop.
+2021-12-17 00:13:13,362 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2021-12-17 00:13:13,362 - INFO - logging in using static token
+2021-12-17 00:13:13,971 - INFO - Shard ID None has sent the IDENTIFY payload.
+2021-12-17 00:13:14,124 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-main-qn3x",{"micros":52052,"calls":["discord-sessions-green-prd-2-18",{"micros":50383,"calls":["start_session",{"micros":32647,"calls":["api-prd-main-jqf5",{"micros":29102,"calls":["get_user",{"micros":3079},"add_authorized_ip",{"micros":1669},"get_guilds",{"micros":4321},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":8135,"calls":[]}]}]}] (Session ID: 182ac1255ce18e83522fb2f75176c1c8).
+2021-12-17 00:14:54,377 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2021-12-17 00:14:54,377 - INFO - logging in using static token
+2021-12-17 00:14:54,378 - INFO - Cleaning up tasks.
+2021-12-17 00:14:54,378 - INFO - Closing the event loop.
+2021-12-17 00:15:33,698 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2021-12-17 00:15:33,698 - INFO - logging in using static token
+2021-12-17 00:15:35,821 - INFO - Shard ID None has sent the IDENTIFY payload.
+2021-12-17 00:15:36,136 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-main-wrl5",{"micros":100036,"calls":["discord-sessions-green-prd-2-63",{"micros":98639,"calls":["start_session",{"micros":82315,"calls":["api-prd-main-08vw",{"micros":69758,"calls":["get_user",{"micros":6506},"add_authorized_ip",{"micros":7961},"get_guilds",{"micros":20043},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":7951,"calls":[]}]}]}] (Session ID: 2307b9530bb3c6bf016c4c44b8c6a4ca).
+2021-12-17 00:15:41,278 - INFO - Yondaime#6523 : 1-1-2-6-24-120-? dans room-11
+2021-12-17 00:17:08,057 - INFO - Wowo#2991 : 680 dans room-11
+2021-12-17 00:17:22,561 - INFO - Wowo#2991 : 720 dans room-11
+2021-12-17 02:40:05,376 - INFO - Got a request to RESUME the websocket.
+2021-12-17 02:40:05,750 - INFO - Shard ID None has sent the RESUME payload.
+2021-12-17 02:40:05,856 - INFO - Shard ID None has successfully RESUMED session 2307b9530bb3c6bf016c4c44b8c6a4ca under trace ["gateway-prd-main-tdtk",{"micros":490,"calls":["discord-sessions-green-prd-2-63",{"micros":13}]}].
+2021-12-17 05:04:02,684 - INFO - Got a request to RESUME the websocket.
+2021-12-17 05:04:02,947 - INFO - Shard ID None has sent the RESUME payload.
+2021-12-17 05:04:03,074 - INFO - Shard ID None has successfully RESUMED session 2307b9530bb3c6bf016c4c44b8c6a4ca under trace ["gateway-prd-main-m2g5",{"micros":6426,"calls":["discord-sessions-green-prd-2-63",{"micros":18}]}].
+2021-12-17 06:02:36,059 - INFO - Got a request to RESUME the websocket.
+2021-12-17 06:02:36,361 - INFO - Shard ID None has sent the RESUME payload.
+2021-12-17 06:02:36,464 - INFO - Shard ID None has successfully RESUMED session 2307b9530bb3c6bf016c4c44b8c6a4ca under trace ["gateway-prd-main-b899",{"micros":578,"calls":["discord-sessions-green-prd-2-63",{"micros":20}]}].
+2021-12-17 08:05:21,855 - INFO - Got a request to RESUME the websocket.
+2021-12-17 08:05:22,177 - INFO - Shard ID None has sent the RESUME payload.
+2021-12-17 08:05:22,286 - INFO - Shard ID None has successfully RESUMED session 2307b9530bb3c6bf016c4c44b8c6a4ca under trace ["gateway-prd-main-nb20",{"micros":3608,"calls":["discord-sessions-green-prd-2-63",{"micros":14}]}].
+2021-12-17 09:43:23,014 - INFO - Got a request to RESUME the websocket.
+2021-12-17 09:43:23,392 - INFO - Shard ID None has sent the RESUME payload.
+2021-12-17 09:43:23,514 - INFO - Shard ID None has successfully RESUMED session 2307b9530bb3c6bf016c4c44b8c6a4ca under trace ["gateway-prd-main-n8wf",{"micros":5827,"calls":["discord-sessions-green-prd-2-63",{"micros":16}]}].
+2021-12-17 12:24:13,116 - INFO - Got a request to RESUME the websocket.
+2021-12-17 12:24:13,577 - INFO - Shard ID None has sent the RESUME payload.
+2021-12-17 12:24:13,687 - INFO - Shard ID None has successfully RESUMED session 2307b9530bb3c6bf016c4c44b8c6a4ca under trace ["gateway-prd-main-f6l7",{"micros":540,"calls":["discord-sessions-green-prd-2-63",{"micros":19}]}].
+2021-12-17 14:32:23,888 - INFO - Got a request to RESUME the websocket.
+2021-12-17 14:32:24,239 - INFO - Shard ID None has sent the RESUME payload.
+2021-12-17 14:32:24,347 - INFO - Shard ID None has successfully RESUMED session 2307b9530bb3c6bf016c4c44b8c6a4ca under trace ["gateway-prd-main-cpb9",{"micros":590,"calls":["discord-sessions-green-prd-2-63",{"micros":15}]}].
+2021-12-17 15:49:06,810 - INFO - Got a request to RESUME the websocket.
+2021-12-17 15:49:07,120 - INFO - Shard ID None has sent the RESUME payload.
+2021-12-17 15:49:07,226 - INFO - Shard ID None has successfully RESUMED session 2307b9530bb3c6bf016c4c44b8c6a4ca under trace ["gateway-prd-main-d28m",{"micros":554,"calls":["discord-sessions-green-prd-2-63",{"micros":19}]}].
+2021-12-17 17:09:53,742 - INFO - Got a request to RESUME the websocket.
+2021-12-17 17:09:54,063 - INFO - Shard ID None has sent the RESUME payload.
+2021-12-17 17:09:54,165 - INFO - Shard ID None has successfully RESUMED session 2307b9530bb3c6bf016c4c44b8c6a4ca under trace ["gateway-prd-main-5fkx",{"micros":581,"calls":["discord-sessions-green-prd-2-63",{"micros":14}]}].
+2021-12-17 20:30:40,301 - INFO - Got a request to RESUME the websocket.
+2021-12-17 20:30:40,583 - INFO - Shard ID None has sent the RESUME payload.
+2021-12-17 20:30:40,685 - INFO - Shard ID None has successfully RESUMED session 2307b9530bb3c6bf016c4c44b8c6a4ca under trace ["gateway-prd-main-5sn4",{"micros":792,"calls":["discord-sessions-green-prd-2-63",{"micros":20}]}].
+2021-12-17 21:05:55,892 - INFO - Got a request to RESUME the websocket.
+2021-12-17 21:05:56,202 - INFO - Shard ID None has sent the RESUME payload.
+2021-12-17 21:05:56,306 - INFO - Shard ID None has successfully RESUMED session 2307b9530bb3c6bf016c4c44b8c6a4ca under trace ["gateway-prd-main-tnpk",{"micros":794,"calls":["discord-sessions-green-prd-2-63",{"micros":17}]}].
+2021-12-17 23:26:46,474 - INFO - Got a request to RESUME the websocket.
+2021-12-17 23:26:47,025 - INFO - Shard ID None has sent the RESUME payload.
+2021-12-17 23:26:47,127 - INFO - Shard ID None has successfully RESUMED session 2307b9530bb3c6bf016c4c44b8c6a4ca under trace ["gateway-prd-main-z7w9",{"micros":2541,"calls":["discord-sessions-green-prd-2-63",{"micros":18}]}].
+2022-01-13 22:19:02,505 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2022-01-13 22:19:02,506 - INFO - logging in using static token
+2022-01-13 22:19:02,506 - INFO - Cleaning up tasks.
+2022-01-13 22:19:02,506 - INFO - Closing the event loop.
+2022-01-13 22:20:30,705 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2022-01-13 22:20:30,706 - INFO - logging in using static token
+2022-01-13 22:20:31,344 - INFO - Shard ID None has sent the IDENTIFY payload.
+2022-01-13 22:20:31,508 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-main-28ns",{"micros":60864,"calls":["discord-sessions-blue-prd-2-102",{"micros":59770,"calls":["start_session",{"micros":38422,"calls":["api-prd-main-mlpv",{"micros":35029,"calls":["get_user",{"micros":3384},"add_authorized_ip",{"micros":4359},"get_guilds",{"micros":4842},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":19244,"calls":[]}]}]}] (Session ID: dbd30d9c309fb238bd4aec97532958c0).
+2022-01-13 22:22:32,884 - INFO - mekk#0329 :  dans general
+2022-01-13 22:22:33,187 - INFO - GameMasterApp#5907 : Bienvenue sur le serveur mekk ! dans general
+2022-01-13 22:23:35,982 - INFO - mekk#0329 : mekk dans room-00
+2022-01-13 22:24:03,981 - INFO - mekk#0329 : 0329 dans room-00
+2022-01-13 22:24:13,043 - INFO - mekk#0329 : mekk#0329 dans room-00
+2022-01-13 22:24:23,689 - INFO - mekk#0329 : 45 dans room-01
+2022-01-13 22:24:55,654 - INFO - mekk#0329 : 45 dans room-01
+2022-01-14 01:09:34,472 - INFO - Got a request to RESUME the websocket.
+2022-01-14 01:09:34,714 - INFO - Shard ID None has sent the RESUME payload.
+2022-01-14 01:09:34,813 - INFO - Shard ID None has successfully RESUMED session dbd30d9c309fb238bd4aec97532958c0 under trace ["gateway-prd-main-5ztz",{"micros":2339,"calls":["discord-sessions-blue-prd-2-102",{"micros":21}]}].
+2022-01-14 01:44:11,534 - INFO - Got a request to RESUME the websocket.
+2022-01-14 01:44:11,767 - INFO - Shard ID None has sent the RESUME payload.
+2022-01-14 01:44:11,871 - INFO - Shard ID None has successfully RESUMED session dbd30d9c309fb238bd4aec97532958c0 under trace ["gateway-prd-main-5c70",{"micros":6547,"calls":["discord-sessions-blue-prd-2-102",{"micros":18}]}].
+2022-01-14 10:17:03,830 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2022-01-14 10:17:03,830 - INFO - logging in using static token
+2022-01-14 10:17:03,831 - INFO - Cleaning up tasks.
+2022-01-14 10:17:03,831 - INFO - Closing the event loop.
+2022-01-14 10:17:38,801 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2022-01-14 10:17:38,801 - INFO - logging in using static token
+2022-01-14 10:17:38,801 - INFO - Cleaning up tasks.
+2022-01-14 10:17:38,801 - INFO - Closing the event loop.
+2022-01-14 10:18:16,970 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2022-01-14 10:18:16,970 - INFO - logging in using static token
+2022-01-14 10:18:17,520 - INFO - Shard ID None has sent the IDENTIFY payload.
+2022-01-14 10:18:17,719 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-main-fpb0",{"micros":90960,"calls":["discord-sessions-blue-prd-2-5",{"micros":90142,"calls":["start_session",{"micros":69561,"calls":["api-prd-main-jbw1",{"micros":64027,"calls":["get_user",{"micros":5285},"add_authorized_ip",{"micros":8670},"get_guilds",{"micros":16570},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":0,"calls":[]}]}]}] (Session ID: 9b97bea541e3f9a0a640623b6f775dc2).
+2022-01-14 12:16:49,276 - INFO - Got a request to RESUME the websocket.
+2022-01-14 12:16:49,540 - INFO - Shard ID None has sent the RESUME payload.
+2022-01-14 12:16:49,641 - INFO - Shard ID None has successfully RESUMED session 9b97bea541e3f9a0a640623b6f775dc2 under trace ["gateway-prd-main-3mn0",{"micros":764,"calls":["discord-sessions-blue-prd-2-5",{"micros":17}]}].
+2022-01-14 14:57:45,344 - INFO - Got a request to RESUME the websocket.
+2022-01-14 14:57:45,582 - INFO - Shard ID None has sent the RESUME payload.
+2022-01-14 14:57:45,692 - INFO - Shard ID None has successfully RESUMED session 9b97bea541e3f9a0a640623b6f775dc2 under trace ["gateway-prd-main-ppht",{"micros":6820,"calls":["discord-sessions-blue-prd-2-5",{"micros":17}]}].
+2022-01-14 18:12:39,798 - INFO - Got a request to RESUME the websocket.
+2022-01-14 18:12:40,080 - INFO - Shard ID None has sent the RESUME payload.
+2022-01-14 18:12:40,195 - INFO - Shard ID None has successfully RESUMED session 9b97bea541e3f9a0a640623b6f775dc2 under trace ["gateway-prd-main-20wl",{"micros":7861,"calls":["discord-sessions-blue-prd-2-5",{"micros":19}]}].
+2022-01-14 21:39:27,087 - INFO - Got a request to RESUME the websocket.
+2022-01-14 21:39:27,344 - INFO - Shard ID None has sent the RESUME payload.
+2022-01-14 21:39:27,445 - INFO - Shard ID None has successfully RESUMED session 9b97bea541e3f9a0a640623b6f775dc2 under trace ["gateway-prd-main-js98",{"micros":1423,"calls":["discord-sessions-blue-prd-2-5",{"micros":19}]}].
+2022-01-14 22:14:05,226 - INFO - Websocket closed with 1006, attempting a reconnect.
+2022-01-14 22:14:05,232 - INFO - Got a request to RESUME the websocket.
+2022-01-14 22:14:05,516 - INFO - Shard ID None has sent the RESUME payload.
+2022-01-14 22:14:05,623 - INFO - Shard ID None has successfully RESUMED session 9b97bea541e3f9a0a640623b6f775dc2 under trace ["gateway-prd-main-r8wr",{"micros":6209,"calls":["discord-sessions-blue-prd-2-5",{"micros":19}]}].
+2022-02-11 13:13:16,889 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2022-02-11 13:13:16,889 - INFO - logging in using static token
+2022-02-11 13:13:16,889 - INFO - Cleaning up tasks.
+2022-02-11 13:13:16,890 - INFO - Closing the event loop.
+2022-02-11 13:14:05,431 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2022-02-11 13:14:05,432 - INFO - logging in using static token
+2022-02-11 13:14:06,031 - INFO - Shard ID None has sent the IDENTIFY payload.
+2022-02-11 13:14:06,221 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-main-bzkk",{"micros":66889,"calls":["discord-sessions-blue-prd-2-83",{"micros":65875,"calls":["start_session",{"micros":58648,"calls":["api-prd-main-55p1",{"micros":54998,"calls":["get_user",{"micros":6048},"add_authorized_ip",{"micros":3714},"get_guilds",{"micros":5965},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":6621,"calls":[]}]}]}] (Session ID: 7d07337dfc32dfdd416386ad8644d7e2).
+2022-02-11 14:00:11,106 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2022-02-11 14:00:11,107 - INFO - logging in using static token
+2022-02-11 14:00:11,107 - INFO - Cleaning up tasks.
+2022-02-11 14:00:11,107 - INFO - Closing the event loop.
+2022-02-11 14:04:00,563 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2022-02-11 14:04:00,564 - INFO - logging in using static token
+2022-02-11 14:04:01,087 - INFO - Shard ID None has sent the IDENTIFY payload.
+2022-02-11 14:04:01,373 - INFO - Shard ID None has connected to Gateway: ["gateway-prd-main-whn0",{"micros":171993,"calls":["discord-sessions-blue-prd-2-151",{"micros":170963,"calls":["start_session",{"micros":128641,"calls":["api-prd-main-5lf0",{"micros":123171,"calls":["get_user",{"micros":7545},"add_authorized_ip",{"micros":3232},"get_guilds",{"micros":53382},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":17082,"calls":[]}]}]}] (Session ID: 86df85e80bd6991714cd76f231193df6).
+2022-02-11 14:51:58,201 - INFO - Got a request to RESUME the websocket.
+2022-02-11 14:51:58,454 - INFO - Shard ID None has sent the RESUME payload.
+2022-02-11 14:51:58,566 - INFO - Shard ID None has successfully RESUMED session 86df85e80bd6991714cd76f231193df6 under trace ["gateway-prd-main-djzf",{"micros":765,"calls":["discord-sessions-blue-prd-2-151",{"micros":18}]}].
+2022-02-11 16:48:28,214 - INFO - Got a request to RESUME the websocket.
+2022-02-11 16:48:28,492 - INFO - Shard ID None has sent the RESUME payload.
+2022-02-11 16:48:28,601 - INFO - Shard ID None has successfully RESUMED session 86df85e80bd6991714cd76f231193df6 under trace ["gateway-prd-main-l4r2",{"micros":584,"calls":["discord-sessions-blue-prd-2-151",{"micros":14}]}].
+2022-02-11 17:29:20,412 - INFO - Got a request to RESUME the websocket.
+2022-02-11 17:29:20,701 - INFO - Shard ID None has sent the RESUME payload.
+2022-02-11 17:29:20,808 - INFO - Shard ID None has successfully RESUMED session 86df85e80bd6991714cd76f231193df6 under trace ["gateway-prd-main-k1hv",{"micros":1791,"calls":["discord-sessions-blue-prd-2-151",{"micros":29}]}].
+2022-02-11 19:10:35,259 - INFO - Got a request to RESUME the websocket.
+2022-02-11 19:10:35,601 - INFO - Shard ID None has sent the RESUME payload.
+2022-02-11 19:10:35,720 - INFO - Shard ID None has successfully RESUMED session 86df85e80bd6991714cd76f231193df6 under trace ["gateway-prd-main-62cv",{"micros":5001,"calls":["discord-sessions-blue-prd-2-151",{"micros":16}]}].
